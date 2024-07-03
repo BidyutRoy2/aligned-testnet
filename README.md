@@ -6,7 +6,7 @@ https://github.com/BidyutRoy2/aligned-testnet/blob/main/345063534-a3669e00-f674-
 - Click on Continue with Github
 - Authorise gitpod with your gihtub accounts
 - Now click on __New Workspace__
-- Paste ```https://github.com/BidyutRoy2/aligned-testnet.git``` in select repository section
+- Paste ``` https://github.com/BidyutRoy2/aligned-testnet.git ``` in select repository section
 - Then click on __Continue__
 - Paste the below command and hit Enter
 ```bash
